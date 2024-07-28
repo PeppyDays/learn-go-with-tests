@@ -8,3 +8,4 @@ Follows the great resource for [learning Go with tests](https://quii.gitbook.io/
 - [Integer](/c02-integers/README.md)
 - [Iteration](/c03-for/README.md)
 - [Arrays and Slices](/c04-arrays/README.md)
+- [Structs, Methods and Interfaces](/c05-structs/README.md)
