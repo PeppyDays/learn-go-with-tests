@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"example.com/c02-integers"
 	"github.com/stretchr/testify/assert"
+
+	"example.com/c02-integers"
 )
 
 func TestAdd(t *testing.T) {

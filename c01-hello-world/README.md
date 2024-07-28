@@ -16,5 +16,3 @@
 - Write enough code to pass the test
 - Refactor
   - Helps ensure to design good software by refactoring
-
-
