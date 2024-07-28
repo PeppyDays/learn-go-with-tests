@@ -6,3 +6,4 @@ Follows the great resource for [learning Go with tests](https://quii.gitbook.io/
 
 - [Hello, World](/c01-hello-world/README.md)
 - [Integer](/c02-integers/README.md)
+- [Iteration](/c03-for/README.md)
