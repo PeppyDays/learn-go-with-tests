@@ -12,6 +12,7 @@ Follows the great resource for [learning Go with tests](https://quii.gitbook.io/
 - [Pointers and Errors](/c06-pointers/README.md)
 - [Maps](/c07-maps/README.md)
 - [Dependency Injection](/c08-dependency-injection/README.md)
+- [Mocking](/c09-mocking/README.md)
 
 ## Reference
 
