@@ -13,6 +13,7 @@ Follows the great resource for [learning Go with tests](https://quii.gitbook.io/
 - [Maps](/c07-maps/README.md)
 - [Dependency Injection](/c08-dependency-injection/README.md)
 - [Mocking](/c09-mocking/README.md)
+- [Concurrency](/c10-concurrency/README.md)
 
 ## Reference
 
