@@ -16,7 +16,12 @@ Follows the great resource for [learning Go with tests](https://quii.gitbook.io/
 - [Concurrency](/c10-concurrency/README.md)
 - [Select](/c11-select/README.md)
 - [Sync](/c13-sync/README.md)
+- [Context](/c14-context/README.md)
 
 ## Reference
 
 - https://dave.cheney.net/practical-go
+
+## To-Do
+
+[] Read [Go Concurrency Patterns: Pipelines and Cancellation](https://go.dev/blog/pipelines)
