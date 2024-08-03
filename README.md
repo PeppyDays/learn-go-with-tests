@@ -19,6 +19,7 @@ Follows the great resource for [learning Go with tests](https://quii.gitbook.io/
 - [Context](/c14-context/README.md)
 - [Property-based Tests](/c15-property-based-tests/README.md)
 - [Generics](/c19-generics/README.md)
+- [Revisiting Arrays and Slices with Generics](/c20-revisiting-arrays-and-slices-with-generics/README.md)
 
 ## Reference
 
