@@ -18,6 +18,7 @@ Follows the great resource for [learning Go with tests](https://quii.gitbook.io/
 - [Sync](/c13-sync/README.md)
 - [Context](/c14-context/README.md)
 - [Property-based Tests](/c15-property-based-tests/README.md)
+- [Generics](/c19-generics/README.md)
 
 ## Reference
 
